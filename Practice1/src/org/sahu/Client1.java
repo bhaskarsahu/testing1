@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.Set;
 
 import javax.print.attribute.HashAttributeSet;
-
+//
 abstract class A {
 	static private void show() {
 		System.out.println("dom...");
